@@ -24,13 +24,11 @@
 
 ```yaml
 name: Avani Gupta
-location: NIT Jamshedpur, India
-currently: ML Intern at DRDO
 education:
   - B.Tech in Computer Science (2023–2027)
-  - Our Own English High School, Sharjah
 
 fields_of_interest:
+  - Web Development
   - Machine Learning
   - AI + Cryptography
   - Full Stack Web Development
