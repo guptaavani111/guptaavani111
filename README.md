@@ -3,17 +3,20 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and Have a Chat! 💬
+  Hi! I am Avani Gupta 💬
 </h1>
 
+
 <p align="center">
-<a href="https://www.linkedin.com/in/avani-gupta-45669728b/">
-  <img height="20" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://github.com/guptaavani111">
-  <img height="20" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
+  <a href="https://www.linkedin.com/in/avani-gupta-45669728b/">
+    <img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" width="25" height="25"/>
+  </a>
+  <a href="https://github.com/guptaavani111">
+    <img src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" width="25" height="25"/>
+  </a>
 </p>
+
+
 
 ---
 
