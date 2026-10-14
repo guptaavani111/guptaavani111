@@ -46,7 +46,7 @@ currently_learning:
 
 hobbies:
   - Tech experiments
-  - Film & photography (📸 @Phocus)
+  - Film & photography
   - Storytelling
   - Coding with friends
 ```
